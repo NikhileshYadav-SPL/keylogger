@@ -22,7 +22,7 @@
 ## Quick Start
 
 ```bash
-git clone https://github.com/CarterPerez-dev/Cybersecurity-Projects.git
+git clone https://github.com/NikhileshYadav-SPL/keylogger.git
 cd Cybersecurity-Projects/PROJECTS/beginner/keylogger
 uv sync
 python keylogger.py
