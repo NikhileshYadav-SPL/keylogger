@@ -1,6 +1,6 @@
 ┌──────────────────────────────────────────────────────────┐
-│                    Operating System                       │
-│                  (Keyboard Event Stream)                  │
+│                    Operating System                      │
+│                  (Keyboard Event Stream)                 │
 └────────────────────────┬─────────────────────────────────┘
                          │
                          ▼
