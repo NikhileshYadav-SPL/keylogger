@@ -1,8 +1,7 @@
 # keylogger
 
 
-(https://github.com/CarterPerez-dev/Cybersecurity-Projects/tree/main/PROJECTS/beginner/keylogger)
-[![Python](https://img.shields.io/badge/Python-3.13+-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org)
+
 
 [![Educational](https://img.shields.io/badge/Purpose-Educational_Only-yellow?style=flat)]()
 
