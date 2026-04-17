@@ -23,7 +23,7 @@
 
 ```bash
 git clone https://github.com/NikhileshYadav-SPL/keylogger.git
-cd Cybersecurity-Projects/PROJECTS/beginner/keylogger
+cd NikhileshYadav-SPL/keylogger
 uv sync
 python keylogger.py
 ```
