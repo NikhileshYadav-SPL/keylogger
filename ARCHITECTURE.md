@@ -8,7 +8,7 @@
               │  pynput Listener     │
               │  (Event Callbacks)   │
               └──────────┬───────────┘
-                         │
+                         │ 
                          ▼
               ┌──────────────────────┐
               │     Keylogger        │
